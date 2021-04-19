@@ -1,0 +1,29 @@
+input {
+    margin: 20px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+button {
+    margin: 10px auto;
+    border-radius: 10px;
+    background-color: tomato;
+    padding: 7px 5px;
+    width: auto;
+    font-size: 20px;
+}
+
+#sort_button {
+    display: none;
+}
+
+span {
+    font-size: 20px;
+}
+
+#output {
+    border: 1px solid green;
+    padding: 10px;
+    background-color: greenyellow;
+    border-radius: 10px;
+}
